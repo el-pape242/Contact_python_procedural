@@ -228,7 +228,7 @@ def main():
 
             exit()
 
-        #Erreur de saisi
+        #Erreur de saisie
         else:
 
             print("saisissez une valeur correct")
